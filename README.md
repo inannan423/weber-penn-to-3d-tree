@@ -1,4 +1,4 @@
-# Weber-Penn Parameters to 3D model
+# Weber-Penn Parameters to 3D tree model
 
 - [Weber-Penn Parameters to 3D model](#weber-penn-parameters-to-3d-model)
   - [Introduction](#introduction)
@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Convert Weber-Penn parameters to 3D model in FBX format.
+Convert Weber-Penn parameters to 3D tree model in FBX format.
 
 ### Prerequisites
 
@@ -34,7 +34,7 @@ blender -b -P run.py -- --input ./tree/pine.py --output pine
 
 ## 中文说明
 
-将 Weber-Penn 参数转化为 3D 模型（FBX 格式）。
+将 Weber-Penn 参数转化为 3D 树木模型（FBX 格式）。
 
 ### 前提
 
